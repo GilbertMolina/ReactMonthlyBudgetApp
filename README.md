@@ -1,2 +1,1 @@
-# ReactMonthlyBudgetApp
-React Monthly Budget App
+# Reac tMonthly Budget App
