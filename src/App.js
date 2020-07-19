@@ -16,7 +16,7 @@ export const App = () => {
           height="30"
           className="d-inline-block align-top mr-2"
         />
-        Monthly Budget App
+        Monthly Budget
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
@@ -39,7 +39,7 @@ export const App = () => {
       </Navbar.Collapse>
     </Navbar>
     <Container className="mt-4">
-      <h1>React Monthly Budget App</h1>
+      <h1>React Monthly Budget</h1>
     </Container>
     </>
   );
